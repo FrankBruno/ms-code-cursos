@@ -1,0 +1,1 @@
+echo "meta aprender a usar o git, poque nao esta dando";
